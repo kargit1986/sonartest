@@ -1,2 +1,3 @@
-console.log('sonar test execute')
-1~~2
+console.log('sonar test execute');
+var t = 0;
+console.log('another log');

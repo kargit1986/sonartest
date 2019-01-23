@@ -1,5 +1,9 @@
+var a = 100;
 if(t==0)
 {
-    fdf
+    console.log('f');
+}
+else
+{
     console.log('f');
 }
